@@ -9,3 +9,5 @@ You can change the colors at the default level or add a custom value to the @inc
 The six-pack format looks best with uniform width, though the middle buttons can be different than the outer buttons, as long as they are the same.
 
 
+###Bower
+```bower install green-buttons-mixin```
