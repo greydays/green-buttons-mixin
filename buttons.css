@@ -8,6 +8,7 @@
   background-color: #00b233;
   color: white;
   box-shadow: 0 4px 0 #007f25;
+  outline: none;
   -webkit-transition: all 0.1s linear;
   transition: all 0.1s linear;
 }
@@ -27,6 +28,7 @@
   background-color: #00b233;
   color: white;
   box-shadow: 0 4px 0 #007f25;
+  outline: none;
   -webkit-transition: all 0.1s linear;
   transition: all 0.1s linear;
   border-right: 1px solid #007f25;
@@ -47,6 +49,7 @@
   background-color: #00b233;
   color: white;
   box-shadow: 0 4px 0 #007f25;
+  outline: none;
   -webkit-transition: all 0.1s linear;
   transition: all 0.1s linear;
   border-left: 1px solid #007f25;
@@ -67,6 +70,7 @@
   background-color: #00b233;
   color: white;
   box-shadow: 0 4px 0 #007f25;
+  outline: none;
   -webkit-transition: all 0.1s linear;
   transition: all 0.1s linear;
   margin: 0 -0.25em;
@@ -99,6 +103,7 @@
   background-color: #00b233;
   color: white;
   box-shadow: 0 4px 0 #007f25;
+  outline: none;
   -webkit-transition: all 0.1s linear;
   transition: all 0.1s linear;
   border-right: 1px solid #007f25;
@@ -119,6 +124,7 @@
   background-color: #00b233;
   color: white;
   box-shadow: 0 4px 0 #007f25;
+  outline: none;
   -webkit-transition: all 0.1s linear;
   transition: all 0.1s linear;
   border-left: 1px solid #007f25;
@@ -139,6 +145,7 @@
   background-color: #00b233;
   color: white;
   box-shadow: 0 4px 0 #007f25;
+  outline: none;
   -webkit-transition: all 0.1s linear;
   transition: all 0.1s linear;
   border-left: 1px solid #007f25;
@@ -159,6 +166,7 @@
   background-color: #00b233;
   color: white;
   box-shadow: 0 4px 0 #007f25;
+  outline: none;
   -webkit-transition: all 0.1s linear;
   transition: all 0.1s linear;
   border-right: 1px solid #007f25;
